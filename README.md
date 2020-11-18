@@ -2,8 +2,6 @@
 
 <p><a href="https://rizwanmemon.netlify.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=Stadia&logoColor=white" /></a> <a href="https://twitter.com/rizwan2000_rm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rizwan2000rm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@rizwan2000.rm" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a></p>
 
-<br />
-
 ### About Me 🚀
 
 👨‍ A Computer Science Engineer based in India with keen interest in building solutions with software development skills. I help convert a vision and an idea into meaningful and useful software products. </br>
