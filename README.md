@@ -18,6 +18,6 @@
 
 
 
-![Rizwan's github stats](https://github-readme-stats.vercel.app/api?username=rizwan2000rm&show_icons=true&hide_border=true)
+![Rizwan's github stats](https://github-readme-stats.vercel.app/api?username=rizwan2000rm&show_icons=true&theme=merko&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rizwan2000rm.rizwan2000rm)
