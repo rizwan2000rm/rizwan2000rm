@@ -9,11 +9,11 @@
 
 ### Here is What I'm working on
 
-   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" />
 
 - 🔭 I’m currently working on ... Personal Projects (Personal Website with Blog, Portfolio, Guides for learning Web Development, Linux etc)
-- 🌱 I’m currently learning ... NextJS, GraphQL, React Native. Also interested in upcoming technologies like AI / Quantum computing.
-- 👯 I’m looking to collaborate on ... Open Source Projects, Freelancing, Part Time / Full Time Jobs etc
+- 🌱 I’m currently learning ... NextJS, Docker, React Native. Also interested in upcoming technologies like AI / Quantum computing.
+- 👯 I’m looking to collaborate on ... Open Source Projects, Full Time Jobs.
 - 💬 Ask me about ... [Full Stack Web Development!](https://sde-resources.netlify.app/) | Linux OS
 
 
