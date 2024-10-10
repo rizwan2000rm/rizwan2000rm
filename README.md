@@ -2,4 +2,4 @@
 
 ### About Me 🚀
 
-Rizwan Memon is a Frontend Developer with over two years of experience developing and shipping quality software experiences. He has    worked with numerous brands over the years and has the most experience working for Fintech startups (KredX, Paytm). Working for him is always going beyond expectations to improve product experiences.
+Rizwan Memon is a Software Engineer with over three years of experience in delivering high-quality software solutions. He has a proven track record of collaborating with startups to build their Minimum Viable Products (MVPs), including notable companies such as Last9, KredX, and Paytm. Rizwan excels in transforming concepts into tangible products, striking an optimal balance between rapid development and robust quality. His expertise lies in helping entrepreneurs and businesses bring their innovative ideas to fruition efficiently and effectively.
