@@ -2,4 +2,17 @@
 
 ### About Me 🚀
 
-Rizwan Memon is a Software Engineer with over four years of experience in delivering high-quality software solutions. He has a proven track record of collaborating with startups to build their Minimum Viable Products (MVPs), including notable companies such as Last9, KredX, and Paytm. Rizwan excels in transforming concepts into tangible products, striking an optimal balance between rapid development and robust quality. His expertise lies in helping entrepreneurs and businesses bring their innovative ideas to fruition efficiently and effectively.
+Most engineers love the craft of building. I love the craft, but I love the end result of the craft more. That means I'll go out of my way to make sure your product delivers real impact.
+
+I work across AI applications, backend systems, and databases, and when it comes to UX and frontend, that's my forte! I'm usually the best fit for Founding Engineer type of roles in early to late stage startups.
+
+Why me?
+
+- AI Native Frontend Engineering
+Balance between speed and quality. I bring in 5+ years of Frontend experience and can help your sales team vibe code UX!
+
+- Fullstack
+Sound fundamentals and comfortable across the stack to deliver results leveraging AI
+
+- Taste matters
+I will talk to customers, run POCs/experiments etc to bring clarity, taste and fruitfulness to your ambigious ideas!
